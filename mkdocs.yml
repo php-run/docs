@@ -1,0 +1,7 @@
+site_name: PHP Run Framework
+pages:
+  - Home: index.md
+  - Installation: installation.md
+  - Quick start: quick-start.md
+  - Resources: resources.md
+theme: readthedocs
